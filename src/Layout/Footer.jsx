@@ -30,7 +30,7 @@ export default function Footer() {
             <i className="fa-brands fa-linkedin"></i>
           </a>
           <a
-            href="https://github.com/yourgithuburl"
+            href="https://github.com/Faizuraza"
             target="_blank"
             rel="noreferrer"
             className="hover:text-sky-400 transition"
